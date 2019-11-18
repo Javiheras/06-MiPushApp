@@ -1,5 +1,7 @@
 {
   "name": "miPushApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
